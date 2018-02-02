@@ -3,9 +3,20 @@ RED vs GOLD
 I'm playing around with GameMaker Studio. The game's theme is the battle between Trainers Red and Gold from the Pokemon video game series.
 
 2/1/2018
-	I made sprites for Red and Gold.
-	I made a background of Mt. Silver.
-	I added a mist effect. It slides across the screen, but I haven't figured out yet how to loop it/make it endless.
+	Made sprites for Red and Gold.
+	Made a background of Mt. Silver.
+	Sdded a mist effect. It slides across the screen, but I haven't figured out yet how to loop it/make it endless.
 
 	Gold can move left and right with keyboard commands. He collides with Red and with the left edge of Mt. Silver.
 	If the player presses "Z" when Red is next to Gold, a textbox appears. The player can make the textbox disappear by pressing "Z" again.
+
+2/2/2018
+	Added Up/Down animation for Gold.
+	Gold can run by pressing “X”.
+
+	Can trigger text box with Red by pressing “Z” without pressing arrow key.
+	Gold is locked from moving while text box is triggered.
+
+	Mist effect moves back and forth.
+
+	Added textbox for debugging.

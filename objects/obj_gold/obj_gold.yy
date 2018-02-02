@@ -53,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "baca3885-8945-4f6f-97de-b4875d95582e",
+            "id": "a1f603ad-2451-4a7f-9f86-ca6936e4a7d5",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,8 +62,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "textbox_1",
+            "value": "4",
+            "varName": "move_speed",
             "varType": 0
         }
     ],
