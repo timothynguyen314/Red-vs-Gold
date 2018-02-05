@@ -65,6 +65,20 @@
             "value": "4",
             "varName": "move_speed",
             "varType": 0
+        },
+        {
+            "id": "8d060b99-7523-4344-ad20-15589dd80a30",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "beginning_position",
+            "varType": 0
         }
     ],
     "solid": true,

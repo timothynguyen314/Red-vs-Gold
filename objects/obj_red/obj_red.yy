@@ -45,6 +45,20 @@
             "value": "0",
             "varName": "beginning_text",
             "varType": 0
+        },
+        {
+            "id": "250a852c-8107-4a0e-95a6-7d206a8d550c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "mus_start",
+            "varType": 0
         }
     ],
     "solid": true,

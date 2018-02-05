@@ -305,6 +305,25 @@
             }
         },
         {
+            "Key": "6bf75ca7-2b6b-46b9-8f44-5c4af33ce1d3",
+            "Value": {
+                "id": "c4a129a3-8823-4340-b775-ecdde8a6d0ae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_storm\/obj_storm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "77065ecb-1e4f-4a17-8a2a-5be6affce71d",
             "Value": {
                 "id": "c31eb884-af92-4734-990b-ced992720ff1",
@@ -359,6 +378,25 @@
                 ],
                 "resourcePath": "views\/7d36db90-ffb9-4767-b5f5-74aeb849c126.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7fec2f35-9260-4574-98fa-bdcda1958d63",
+            "Value": {
+                "id": "2b820479-f7b3-476f-a647-c2e0976d3930",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite_storm_cloud\/sprite_storm_cloud.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +533,25 @@
             }
         },
         {
+            "Key": "9dcf4c36-beca-4900-bbc4-10813e236728",
+            "Value": {
+                "id": "4cf2f51b-f652-4a6d-a61f-07860f849c6a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_wind\/snd_wind.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a557ede2-db81-4d70-bb61-4d8e1ca32b14",
             "Value": {
                 "id": "4c6c18d1-096c-44fe-8478-c8f509d72cba",
@@ -530,6 +587,25 @@
                 ],
                 "resourcePath": "views\/a78f0bd9-6fb3-4ec5-95b5-8536e4c223b4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "acbb6870-6247-42a6-b3c4-13b16e3ccee0",
+            "Value": {
+                "id": "c75981ad-2c58-4cec-ba43-6043a141885b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_press\/snd_press.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -585,7 +661,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_textbox\/obj_textbox.yy",
+                "resourcePath": "objects\/obj_beginning_text\/obj_beginning_text.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -644,6 +720,25 @@
                 ],
                 "resourcePath": "views\/c5868725-75a4-462f-9848-71c23a6b856a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c6771510-74c6-4bfe-9a81-c3d1744eb9de",
+            "Value": {
+                "id": "f82cecc8-c29c-4c2e-b5ef-d6925755530c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_vs_red\/snd_vs_red.yy",
+                "resourceType": "GMSound"
             }
         },
         {
