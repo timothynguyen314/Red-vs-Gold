@@ -3,8 +3,11 @@
 
 if(beginning_position == 1){
 	x = x - 4;
-	if(x < 320)
+	if(x <= 288){
 		beginning_position = 0;
+		room_goto(room1);
+	}
+	
 }else
 if(obj_red.beginning_text == 0){
 	if(keyboard_check(vk_right)){

@@ -32,3 +32,7 @@ I'm playing around with GameMaker Studio. The game's theme is the battle between
 	Added battle music that plays after text is finished.
 
 	Added storm animation that plays after text is finished.
+
+2/5/2018
+	Added an epic battle transition animation.
+	Utilizing screen shakes and fade outs.
