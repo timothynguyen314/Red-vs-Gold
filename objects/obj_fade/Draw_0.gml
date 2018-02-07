@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 a = clamp(a + (fade * 0.03), 0, 1);
 	
 draw_set_color(c_white);

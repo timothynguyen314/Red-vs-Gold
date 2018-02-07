@@ -36,3 +36,8 @@ I'm playing around with GameMaker Studio. The game's theme is the battle between
 2/5/2018
 	Added an epic battle transition animation.
 	Utilizing screen shakes and fade outs.
+
+2/7/2018
+	Added a stadium room that Gold can walk around freely in.
+	Made sprites for Pokemon.
+	However, having reached the limits of the free trial version of GameMaker Studio, I have decided to finish the rest of this project with Unity.
